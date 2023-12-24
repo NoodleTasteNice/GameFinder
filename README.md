@@ -5,7 +5,7 @@ This Game Recommendation System project leverages user scores, Metacritic scores
 
 ## How it Works
 
-The recommendation system is a content-based filtering system. operates by first preprocessing the data such as one-hot encoding categorical data (genres and age ratings). It then calculates cosine similarity between games based on their features. Users can request game recommendations based on a specific title, and the system will suggest similar games.
+The recommendation system is a content-based filtering system. It operates by first preprocessing the data such as one-hot encoding categorical data (genres and age ratings). It then calculates cosine similarity between games based on their features. Users can request game recommendations based on a specific title, and the system will suggest similar games.
 
 ## Getting Started
 
